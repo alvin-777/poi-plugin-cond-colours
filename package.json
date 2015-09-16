@@ -1,6 +1,6 @@
 {
   "name": "cond-colours",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Check text effects for entered cond values.",
   "main": "index.cjsx",
   "scripts": {
